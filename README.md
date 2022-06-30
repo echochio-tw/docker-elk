@@ -32,7 +32,7 @@ By default, the stack exposes the following ports:
 ### Docker Desktop
 
 ```console
-$ docker-compose up
+$ docker-compose up 
 ```
 
 > **Note**  
